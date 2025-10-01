@@ -1,0 +1,22 @@
+project_id = "ircdufableynvrwrssty"
+
+[functions.extract-student-data]
+verify_jwt = false
+
+[functions.generate-questions]
+verify_jwt = false
+
+[functions.process-rav]
+verify_jwt = false
+
+[functions.generate-coluna-b]
+verify_jwt = false
+
+[functions.generate-final-docx]
+verify_jwt = false
+
+[functions.generate-pdf-rav]
+verify_jwt = false
+
+[functions.generate-rav-preview]
+verify_jwt = false
